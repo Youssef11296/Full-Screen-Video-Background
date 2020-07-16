@@ -1,0 +1,17 @@
+{
+  "name": "35-Full-Screen-Video-Background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Yousse11296.github.io/Full-Screen-Video-Background",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
